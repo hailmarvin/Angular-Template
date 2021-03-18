@@ -2,6 +2,11 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.19.
 
+## Tasks
+- [x] Angular Material 
+- [x] Firebase Authentication
+- [ ] State Management
+
 ## Dependacncies
 [Firebase](https://console.firebase.google.com/u/0/).<br />
 [Angular Material](https://material.angular.io/guide/getting-started).<br />
